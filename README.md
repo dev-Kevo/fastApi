@@ -17,8 +17,15 @@ This project showcases a basic API for managing posts. It includes endpoints for
     git clone https://github.com/dev-Kevo/fastApi.git
     cd fastApi
     ```
+2. Create a virtual Enviroment and activate:
 
-2. Install dependencies:
+    ```bash
+    python -m venv <name_of_the_virtual_env>
+    cd venv/Scripts
+    ----> activate
+    ```
+
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
